@@ -8,34 +8,40 @@ Student athletes can only compete well if they fuel their bodies well. However, 
 
 It is difficult for student athletes to spend time planning what to eat, how much of it, and when to eat it with actual diets because of schedules, workouts, and lack of availability of good resources on college campuses. These obstacles lead to under-fueled athletes who struggle to recover from workouts and are not able to perform to the best of their ability. 
 
+## 🧑‍💻 Target Audience
+- College athletes
+- Fitness-focused individuals
+- Busy professionals with specific nutrition goals
 
-## 🧪 Features
-- Goal-based meal recommendations (Gain Muscle, Lose Fat, etc.)
-- Easy-to-navigate meal planner
-- Nutritional breakdown per meal
-- Auto-generated grocery list by ingredient
-- Simple and modern mobile-first UI
+## 🌟 Features
+- Select a fitness goal (e.g. Gain Muscle, Lose Fat)
+- See goal-aligned meal recommendations
+- View nutritional info for each meal
+- Automatically generate a grocery list
+- Clean, mobile-first UI design
 
-## 🎨 Tools Used
-- Figma (Prototype and UI design)
-- Paper sketches (initial concepting)
-
-<!--
-## 📸 Screenshots
-![Goal Selection](./screenshots/goal-selection.png)
-![Meal Plan](./screenshots/meal-plan.png)
-![Meal Details](./screenshots/meal-details.png)
-![Grocery List](./screenshots/grocery-list.png)
--->
-
+## 🛠 Tools Used
+- Figma (for UI and interactive prototype)
+- PowerPoint (to document case study and sketches)
+- Pen & Paper (for early sketching)
 
 ## 🔗 View the Prototype
-[Open Figma Prototype](https://www.figma.com/proto/vhOmKdoaZ35nu9lt8o5w0X/HCI-project?node-id=33-2)
+[Figma Link](https://www.figma.com/proto/vhOmKdoaZ35nu9lt8o5w0X/HCI-project?node-id=33-2)
 
-## 📝 What I’d Improve Next
-- Add meal filtering (e.g. allergies, macros, prep time)
-- Consider integrating barcode scanning or online grocery ordering
-- Expand to support batch cooking or weekly plans
+## 📄 Case Study (Includes Sketches & Wireframes)
+[Download the Full Project Presentation (PPTX)](./docs/Athlete%20App%20Project.pptx)
+
+## 📸 Screenshots *(optional, if you export from Figma)*
+To see key UI screens at a glance:
+- Goal selection screen
+- Meal plan browsing
+- Individual meal view
+- Grocery list generation
+
+## 📝 What I'd Improve Next
+- Add filters (diet type, allergens, prep time)
+- Sync grocery list to Instacart or store pickup
+- Include batch meal prep view and calendar
 
 ---
 
