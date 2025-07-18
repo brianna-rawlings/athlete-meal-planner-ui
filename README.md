@@ -23,7 +23,7 @@ Athletes often struggle to consistently eat for their goals while staying organi
 ![Meal Plan](./screenshots/meal-plan.png)
 ![Meal Details](./screenshots/meal-details.png)
 ![Grocery List](./screenshots/grocery-list.png)
--- >
+-->
 
 
 ## 🔗 View the Prototype
