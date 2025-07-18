@@ -4,7 +4,10 @@
 This is a UI/UX design prototype created for a Human-Computer Interaction class. It’s designed to help athletes plan meals tailored to their goals and streamline grocery shopping.
 
 ## 🎯 Problem Statement
-Athletes often struggle to consistently eat for their goals while staying organized and efficient with groceries. This app bridges that gap with a clean, guided UI.
+Student athletes can only compete well if they fuel their bodies well. However, proper nutrition requires multiple resources: knowledge, good dining options, time, money, proximity to grocery stores, and proper cookware. 
+
+It is difficult for student athletes to spend time planning what to eat, how much of it, and when to eat it with actual diets because of schedules, workouts, and lack of availability of good resources on college campuses. These obstacles lead to under-fueled athletes who struggle to recover from workouts and are not able to perform to the best of their ability. 
+
 
 ## 🧪 Features
 - Goal-based meal recommendations (Gain Muscle, Lose Fat, etc.)
