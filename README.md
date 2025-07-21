@@ -31,12 +31,6 @@ It is difficult for student athletes to spend time planning what to eat, how muc
 ## 📄 Case Study (Includes Sketches & Wireframes)
 [Download the Full Project Presentation (PPTX)](./docs/Athlete%20App%20Project.pptx)
 
-## 📸 Screenshots *(optional, if you export from Figma)*
-To see key UI screens at a glance:
-- Goal selection screen
-- Meal plan browsing
-- Individual meal view
-- Grocery list generation
 
 ## 📝 What I'd Improve Next
 - Add filters (diet type, allergens, prep time)
